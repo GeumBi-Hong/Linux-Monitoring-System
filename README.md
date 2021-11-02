@@ -21,3 +21,10 @@
 
 ## 기대효과
 ![image](https://user-images.githubusercontent.com/58154655/139816762-8589c8da-ead3-4e41-bca4-47c99253cb78.png)
+
+
+
+## 실행화면
+![image](https://user-images.githubusercontent.com/58154655/139831069-fcf5c4b6-68dc-4712-8dce-9bbd47e72161.png)
+
+![image](https://user-images.githubusercontent.com/58154655/139831107-be06588f-37ff-49a4-ae6d-dd417ac2f5f1.png)
